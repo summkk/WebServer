@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/smx/proj/web/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/smx/proj/web/include  -g   -std=gnu++11 -o CMakeFiles/web.dir/HTTPMessage.cpp.o -c /home/smx/proj/web/HTTPMessage.cpp",
+  "file": "/home/smx/proj/web/HTTPMessage.cpp"
+},
+{
+  "directory": "/home/smx/proj/web/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/smx/proj/web/include  -g   -std=gnu++11 -o CMakeFiles/web.dir/server.cpp.o -c /home/smx/proj/web/server.cpp",
+  "file": "/home/smx/proj/web/server.cpp"
+}
+]

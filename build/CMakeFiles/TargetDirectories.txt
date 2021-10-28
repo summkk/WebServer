@@ -1,0 +1,3 @@
+/home/smx/proj/web/build/CMakeFiles/rebuild_cache.dir
+/home/smx/proj/web/build/CMakeFiles/web.dir
+/home/smx/proj/web/build/CMakeFiles/edit_cache.dir
